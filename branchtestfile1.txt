@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is same file name on branch testing.
 but this is file on master
+=======
+this is testing branch file 1
+>>>>>>> testing
